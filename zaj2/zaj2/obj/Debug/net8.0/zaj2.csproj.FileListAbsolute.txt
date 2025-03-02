@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\bin\Debug\net8.0\zaj2.exe
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\bin\Debug\net8.0\zaj2.deps.json
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\bin\Debug\net8.0\zaj2.runtimeconfig.json
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\bin\Debug\net8.0\zaj2.dll
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\bin\Debug\net8.0\zaj2.pdb
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.sourcelink.json
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.dll
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\refint\zaj2.dll
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.pdb
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\zaj2.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Pulpit\jipp2\JIPP2\zaj2\zaj2\obj\Debug\net8.0\ref\zaj2.dll
