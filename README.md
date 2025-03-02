@@ -1,2 +1,2 @@
 # JIPP2
-Z405
+Z405 - Jakub Klimek 
