@@ -1,0 +1,14 @@
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.AssemblyInfoInputs.cache
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.AssemblyInfo.cs
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.csproj.CoreCompileInputs.cache
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\bin\Debug\net8.0\zaj3.exe
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\bin\Debug\net8.0\zaj3.deps.json
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\bin\Debug\net8.0\zaj3.runtimeconfig.json
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\bin\Debug\net8.0\zaj3.dll
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\bin\Debug\net8.0\zaj3.pdb
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.dll
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\refint\zaj3.dll
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.pdb
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\zaj3.genruntimeconfig.cache
+A:\Users\jakub\OneDrive\Pulpit\asd\asd_6_2\zaj3\zaj3\obj\Debug\net8.0\ref\zaj3.dll
