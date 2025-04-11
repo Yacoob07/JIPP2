@@ -1,7 +1,0 @@
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.AssemblyInfoInputs.cache
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.AssemblyInfo.cs
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.csproj.CoreCompileInputs.cache
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.MvcApplicationPartsAssemblyInfo.cache
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.RazorAssemblyInfo.cache
-A:\Users\jakub\OneDrive\Pulpit\jipp2\JIPP2\zaj4\mvc\mvc\obj\Debug\net8.0\mvc.RazorAssemblyInfo.cs
